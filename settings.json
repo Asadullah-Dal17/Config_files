@@ -1,0 +1,29 @@
+{
+    "workbench.startupEditor": "none",
+    // ---> Editor settings---   
+    "editor.suggestSelection": "first",
+    "editor.fontSize": 24, // for coding Tutorial
+    // "editor.fontSize": 20, // Normal
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 32, //Recordding codign Tutorial 
+    // "editor.lineHeight": 25, // noramal
+    "editor.fontFamily": "CaskaydiaCove NF, 'Courier New', monospace",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": -1,
+    // ---> zen mode settings 
+    "zenMode.fullScreen": true,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": true,
+    "zenMode.hideTabs": true,
+    "zenMode.centerLayout": false,
+    // ---> other settings 
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeLens": false,
+    // ---> code formator setttings
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    // pylance setting 
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.completeFunctionParens": true
+}
